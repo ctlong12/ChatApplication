@@ -8,7 +8,6 @@ The project takes an object oriented approch to application design. Each user, m
 
 ### Features
 <a target="_blank"><img align = "right" height = "500" width = "300" src="http://i64.tinypic.com/143gz1e.png" border="0" alt="Messages Screen"></a>
-<a target="_blank"><img align = "right" height = "500" width = "300" src="http://i65.tinypic.com/531q4n.png" border="0" alt="Login Screen"></a>
 * User login/logout
 * Customizable user profiles
 * Real time user chat messaging 
@@ -19,7 +18,7 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
-```
-Give the example
-```
+
+
+<a target="_blank"><img align = "right" height = "500" width = "300" src="http://i65.tinypic.com/531q4n.png" border="0" alt="Login Screen"></a>
 
