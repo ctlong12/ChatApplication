@@ -13,6 +13,6 @@ The project takes an object oriented approch to application design. Each user, m
 * Real time user chat messaging 
 
 
-<a target="_blank"><img align = "center" height = "490" width = "290" src="http://i65.tinypic.com/531q4n.png" border="0" alt="Login Screen"></a>
-<a target="_blank"><img align = "center" height = "490" width = "290" src="http://i64.tinypic.com/143gz1e.png" border="0" alt="Messages Screen"></a>
-<a target="_blank"><img align = "center" height = "490" width = "290" src="http://i64.tinypic.com/143gz1e.png" border="0" alt="Messages Screen"></a>
+<a target="_blank"><img align = "center" height = "500" width = "285" src="http://i65.tinypic.com/531q4n.png" border="0" alt="Login Screen"></a>
+<a target="_blank"><img align = "center" height = "500" width = "285" src="http://i64.tinypic.com/143gz1e.png" border="0" alt="Messages Screen"></a>
+<a target="_blank"><img align = "center" height = "500" width = "285" src="http://i64.tinypic.com/143gz1e.png" border="0" alt="Messages Screen"></a>
