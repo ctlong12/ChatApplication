@@ -18,7 +18,3 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
-
-
-<a target="_blank"><img align = "right" height = "500" width = "300" src="http://i65.tinypic.com/531q4n.png" border="0" alt="Login Screen"></a>
-
