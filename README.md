@@ -4,7 +4,7 @@ Lit Chatting is a full scale messaging applciation build in iOS Swift 3 and Xcod
 
 ## Implementation
 
-The project takes an object oriented approch to application design. Each user, message, and profile are built out in such a way to provide efficent data retrival and storage. The application uses Google's Firbase as a backen to ensure scalabity if ever need be. 
+The project takes an object oriented approch to application design. Each user, message, and profile are built out in such a way to provide efficent data retrival and storage. The application uses Google's Firebase as a backen to ensure scalabity if ever need be. 
 
 ### Features
 
