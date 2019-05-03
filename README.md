@@ -11,7 +11,7 @@ The project takes an object oriented approch to application design. Each user, m
 * User login/logout
 * Customizable user profiles
 * Real time user chat messagin
-* Programatic constraints to fit on any size device
+* Programatic constraints to fit on any sized device
 * Dynamically sizing messaging cells for readability
 </br>
 </br>
